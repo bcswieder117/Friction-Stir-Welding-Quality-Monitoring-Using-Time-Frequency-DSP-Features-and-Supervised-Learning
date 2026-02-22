@@ -1,0 +1,1 @@
+Will contain the final paper and the corresponding presentation for ECE 5020: Digital Signal Processing as well as a testment to bridging my Electrical Engineering, Mechanical Engineering, and Aritificial Intelligence/Machine Learning skills. A presentation will be made for future employers and research collaborators to see the highlights.
